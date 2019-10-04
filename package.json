@@ -1,0 +1,11 @@
+{
+  "name": "awesomeci-demo-ruby-rails",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "~>4.1.2"
+  },
+  "version": "1.0.0",
+  "repository": "git@github.com:AwesomeCICD/awesomeci-demo-ruby.git",
+  "author": "Zachary Scott <mail@zzak.io>",
+  "license": "MIT"
+}
